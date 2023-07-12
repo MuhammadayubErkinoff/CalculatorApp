@@ -1,5 +1,6 @@
-public class CalculatorApp {
-    void main(String[] args){
-        CalculatorFrame calculatorFrame=new CalculatorFrame();
+
+class CalculatorApp {
+    public static void main(String[] args){
+        new CalculatorFrame();
     }
 }
